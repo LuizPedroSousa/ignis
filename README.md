@@ -2,7 +2,7 @@
 
 CMake build orchestrator with stage-based execution and a TUI.
 
-<img width="2071" height="1001" alt="image" src="https://github.com/user-attachments/assets/59f73538-35ef-4c8c-b78d-b3803343b1c1" />
+<img width="2071" height="1001" alt="image" src=".github/screenshots/build.png" />
 
 
 ## Why?
