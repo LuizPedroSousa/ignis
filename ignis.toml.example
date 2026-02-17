@@ -1,0 +1,29 @@
+[history]
+max_builds = 50
+storage_path = "~/.astralix/build_history.json"
+
+[logs]
+auto_save = false
+save_directory = "~/.cache/astralix/logs"
+
+[editor]
+command = "${EDITOR}"
+vscode_integration = true
+
+[display]
+max_log_lines = 10000
+show_timestamps = true
+theme = "dark"
+
+[keybindings]
+leader_key = "Space"
+sequence_timeout_ms = 1000
+enable_leader = true
+
+[keybindings.leader_bindings]
+
+[keybindings.vim_sequences]
+
+[build]
+name = "ignis"
+kind = "Executable"
